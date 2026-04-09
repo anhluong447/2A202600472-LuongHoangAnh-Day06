@@ -7,7 +7,7 @@
 
 ## I. TỔNG QUAN VỊ TRÍ & ĐÓNG GÓP
 
-Là Product Manager, nhiệm vụ tối thượng của tôi không nằm ở những dòng code, mà ở việc định hướng giải pháp để đảm bảo AI xử lý đúng *Pain points* của khách hàng (giảm thời gian tra cứu FAQ, hạn chế lặp lại thông tin) đồng thời mang lại giá trị hoàn vốn (ROI) cho XanhSM.
+Là Product Manager, nhiệm vụ của tôi nằm ở việc định hướng giải pháp để đảm bảo AI xử lý đúng *Pain points* của khách hàng (giảm thời gian tra cứu FAQ, hạn chế lặp lại thông tin) đồng thời mang lại giá trị hoàn vốn (ROI) cho XanhSM.
 
 ### Phạm Vi Phụ Trách Chính:
 1. **Thiết kế & Quy hoạch Tài liệu Sản phẩm:** Khởi tạo tài liệu `01-spec.md`, `canvas.md`.
