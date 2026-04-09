@@ -1,4 +1,4 @@
-# 📊 BÁO CÁO QUẢN TRỊ DỰ ÁN (PM REFLECTION)
+# BÁO CÁO QUẢN TRỊ DỰ ÁN (PM REFLECTION)
 > Dự án: **XanhSM Help Center AI (Nhóm 064-E403)**  
 > Vai trò: **Product Manager (PM) / Chủ sở hữu Sản phẩm**  
 > Thành viên: **Lương Hoàng Anh - 2A202600472**
@@ -43,10 +43,10 @@ stateDiagram-v2
 
 ## III. ĐÁNH GIÁ TÀI LIỆU SPEC
 
-| Hạng Mục | Nhận Xét Của PM | Lý Do Chi Tiết |
-| :--- | :--- | :--- |
-| 🏆 **Mạnh nhất** | **ROI & Metrics** | Xác định rõ *Deflection Rate* kỳ vọng (30%) giúp dự án có ý nghĩa kinh tế thực tế. Đặc biệt xây dựng Moat (Hào phòng thủ) dựa vào việc AI học lóng XanhSM chứ không chỉ tra FAQ. |
-| ⚠️ **Yếu nhất** | **Kiến trúc DB** | Bỏ ngỏ hoàn toàn cách lưu trữ. Không quy định chiến lược Vector Chunking (chia rã đoạn văn), gây lấn cấn cho team Data Engineer phía sau. |
+| Nhận Xét Của PM | Lý Do Chi Tiết |
+| :--- | :--- |
+| **ROI & Metrics** | Xác định rõ *Deflection Rate* kỳ vọng (30%) giúp dự án có ý nghĩa kinh tế thực tế. Đặc biệt xây dựng Moat (Hào phòng thủ) dựa vào việc AI học lóng XanhSM chứ không chỉ tra FAQ. |
+| **Kiến trúc DB** | Bỏ ngỏ hoàn toàn cách lưu trữ. Không quy định chiến lược Vector Chunking (chia rã đoạn văn), gây lấn cấn cho team Data Engineer phía sau. |
 
 ---
 
